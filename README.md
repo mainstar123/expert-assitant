@@ -3,6 +3,9 @@
 This project is an Expert Knowledge Worker that uses LangChain, Chroma, and OpenAI's GPT-4o-mini model to load documents, create a vector store, visualize the vector store, and provide a conversational interface.
 This project used RAG (Retrieval Augmented Generation) to ensure our question/answering assistant has high accuracy based on local knowledge base.
 
+## Project Preview
+[screen-capture (3).webm](https://github.com/user-attachments/assets/c60a98ba-7c74-4790-bb97-1373070ac5f9)
+
 ## Project Structure
 
 - `load_documents.py`: Handles loading documents from the knowledge base.
