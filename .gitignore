@@ -1,3 +1,5 @@
 .env
 # Ignore sensitive files
 certificate.pem
+vector_db
+__pycache__
